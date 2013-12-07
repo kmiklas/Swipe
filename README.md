@@ -83,6 +83,8 @@ Swipe exposes a few functions that can be useful for script control of your slid
 
 `next()` slide to next
 
+`stop()` cancel slideshow
+
 `getPos()` returns current slide index position
 
 `getNumSlides()` returns the total amount of slides
